@@ -15,7 +15,7 @@ namespace SampleRSAzureProject.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Sowmya's page.";
+            ViewBag.Message = "Sowmya's page...after changes";
 
             return View();
         }
